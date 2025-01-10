@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-code-u&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-code-u" /> </p>
 
-- 🌱 I’m currently learning Data Science **React JS**
+- 🌱 I’m currently learning DSA
 
 - 👨‍💻 All of my projects are available at [https://kunalbhalla.vercel.app/](https://kunalbhalla.vercel.app/)
 
